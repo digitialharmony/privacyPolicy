@@ -1,4 +1,4 @@
-Privacy Policy  https://github.com/digitialharmony/privacyPolicy/tree/main
+Privacy Policy  
 ----------------
 
 ### Introduction  
